@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main -Entry.
- * Return: 0-no error,non zero value if error.
+ * main -Entry
+ * Return: Always 0
  */
-int main(void)
+int main(void
 {
 	int n;
 	
