@@ -23,7 +23,7 @@ int main(void)
 		}
 		else
 		{
-			if (boolean)
+			if (boolean2)
 			{
 				n11 = n1 % 1000000000;
 				n22 = n2 % 1000000000;
