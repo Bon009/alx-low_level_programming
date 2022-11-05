@@ -12,6 +12,7 @@
 int main(int argc, char *argv[])
 {
 	int cents, coins_number = 0;
+
 	if (argc != 2)
 	{
 		printf("Error\n");
